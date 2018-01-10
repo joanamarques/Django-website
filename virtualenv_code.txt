@@ -1,0 +1,22 @@
+0. Criar ambiente virtual
+- cd Desktop
+- virtualenv virtualenvs/djangodev
+- virtualenvs\djangodev\Scripts\activate
+
+1. Instalar python 3.x
+2. Instalar django 2.0
+
+3. cd (pasta website)
+
+4. Instalar django cms - http://docs.django-cms.org/en/develop/introduction/install.html
+5. Instalar aldryn-events - http://aldryn-events.readthedocs.io/en/latest/introduction/installation.html
+
+6. Instalar aldryn-forms - https://github.com/aldryn/aldryn-forms
+
+7. Instalar aldryn-news & blog - http://aldryn-newsblog.readthedocs.io/en/latest/
+
+Comandos dentro da (pasta website)
+
+- python manage.py runserver
+- python manage.py shell
+- python manage.py (test) (app)

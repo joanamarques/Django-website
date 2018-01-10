@@ -1,0 +1,10 @@
+M. index
+(event calendar per month. Each course has title, dates, description, read more, keywords, indication of open or closed. Footer with subscribe to newsletter, link to about, link to contact, cooperation)
+
+	S. events
+	(description, map, course details - date, location, language, Lecturers, Price, registration form, registration date, additional information, link to Program, link to materials)
+
+M. About GTPB
+M. Contact information
+M. News
+
